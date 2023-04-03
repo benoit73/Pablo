@@ -103,7 +103,7 @@ try { $dsn = "mysql:host=" . $host . ";dbname=" . $dbname; $pdo = new PDO($dsn, 
           </table>
         </div>
 
-        <div class="col"></div>
+        <div class="col git"></div>
       </div>
     </div>
 
