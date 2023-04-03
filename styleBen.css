@@ -1,0 +1,20 @@
+.tarifTab {
+     background-color: beige;
+     border: grey 3px solid;
+     height : 105%;
+     width : 105%;
+     padding: 100px;
+     border-collapse: collapse;
+    }
+.tr1 {background-color: azure;}
+.td1 {width : 10px}
+td {height : 50px}
+#test {background-color: rgb(219, 219, 223, 0.4); padding: 10px;}
+
+body {
+    background-image: url('img/fontpablo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
